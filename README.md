@@ -1,3 +1,26 @@
+<
+
+# After making repo on Gitub, push local app:
+git init
+
+git remote add origin https://github.com/GurnHBlanston/robo_friends.git
+
+git push --set-upstream origin master --force
+
+git add . 
+
+git status
+
+git commit -m "this is my message"
+
+git push origin master
+
+
+--------------------------------------------------------------------------
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
